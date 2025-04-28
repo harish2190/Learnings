@@ -1,2 +1,2 @@
 # Learnings 
-my-learnins/
+my-learnings/
